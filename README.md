@@ -77,6 +77,8 @@ After installation:
 4. Select the `john.exe` file.
 5. The `john.exe` file is located inside the **run** folder of the John the Ripper installation.
 
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/8d828bc51fdabee8ffca1c2fd353429d93c61846/2_Johnny.png)
+
 ---
 
 ## Step 3 – Obtain the PDF Hash
@@ -131,6 +133,8 @@ hash1.txt
 5. Select **Start new attack**.
 
 John the Ripper will then attempt password recovery. The time required depends on factors such as the computer's processing speed and the complexity of the password.
+
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/8d828bc51fdabee8ffca1c2fd353429d93c61846/1_PM1_results.png)
 
 ---
 
