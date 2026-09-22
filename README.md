@@ -291,19 +291,22 @@ Through this project, I gained practical exposure to:
 
 # 📁 Project Information
 
-**Program:** Cybersecurity & Ethical Hacking Internship
-**Organization:** Networkwalks
-**Week:** 03
-**Project:** Password Cracking with JTR & Networkwalks Tools
-**Field:** Cybersecurity / Ethical Hacking
+**Program:** Cybersecurity & Ethical Hacking Internship |
+**Organization:** Networkwalks |
+**Week:** 03 |
+**Project:** Password Cracking with JTR & Networkwalks Tools |
+**Repository:** GitHub |
+**Field:** Cybersecurity / Ethical Hacking |
 
 ---
 
 # 👨‍💻 Author
 
-**Rohith**
-Computer Science
-Cybersecurity & Ethical Hacking Intern
+**Rohith K R**
+
+**Cybersecurity Intern — B083**
+
+**LinkedIn:** [linkedin.com/in/rohith-k-r-55236a30b](https://linkedin.com/in/rohith-k-r-55236a30b)
 
 ---
 
