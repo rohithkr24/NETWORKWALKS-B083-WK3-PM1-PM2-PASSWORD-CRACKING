@@ -178,6 +178,7 @@ The tool processes the file and produces a PDF password hash beginning with:
 ```text
 $pdf$
 ```
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/31b913ffbb36c432b68e6dfc4727980f6a4b3568/3_Obtaining%20hash%20of%20PDF%20from%20Hash%20Calculator.png)
 
 ---
 
@@ -206,6 +207,8 @@ Start the password-cracking process.
 The tool attempts different password candidates until it finds a matching password.
 
 The time required depends on the complexity of the password.
+
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/31b913ffbb36c432b68e6dfc4727980f6a4b3568/5_Password%20Cracker.png)
 
 ---
 
